@@ -1,6 +1,6 @@
 // Import necessary React Testing Library helpers
 import { render, screen, fireEvent } from '@testing-library/react';
-// Import the Counter component
+// Import the Counter component from components folder
 import Counter from '../components/Counter';
 
 // Render the Counter component before each test
